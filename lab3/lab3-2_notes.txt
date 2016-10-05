@@ -1,0 +1,9 @@
+improper formulas for calculating area and circumference were used // 8am why
+
+numbers were checked against wolfram alpha calcualations for custom 
+equations
+
+
+
+
+

@@ -1,0 +1,4 @@
+pick up -> tilt left -> tilt right -> tilt forward -> tilt back -> move 
+down -> move up again
+
+

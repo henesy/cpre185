@@ -1,0 +1,24 @@
+﻿There will be 5 programming practices. These coding projects will be submitted in Blackboard. You must follow the format given below to earn full credit! Please note that half of the credit is based on your reflections, which you will make in the comments section of your source code.
+
+
+Your submission needs to be a .c file file containing your program and associated comments about what you learned, what you were trying to do, or questions about any issues you encountered. Submit the c source file using Blackboard. When you are finished writing the code, use your editor to “Save As” and choose “.c” as its extension for saving a c source file. Do not submit a .pdf file.  It will not compile and run for the TAs.  Please name your file using the format:  LastName_FirstName_PP_#.c where # is the number of the programming practice. A typical example is below: 
+
+
+/*         Student Name 
+        Student email (Should be your isu email)
+        CPRE 185 Section A (change to your class and section)
+Programming Practice NUMBER 
+         <Reflection 1 What were you trying to learn or achieve?>
+                Answer here (a few sentences is sufficient.)
+        <Reflection 2 Were you successful? Why or Why not?>
+        Answer here (a few sentences is sufficient.)
+<Reflection 3 Would you do anything differently if starting this program over? If so, explain what.>
+        Answer here (a few sentences is sufficient.)
+<Reflection 4 Think about the most important thing you learned when writing this piece of code. What was it and explain why it was significant.>
+        Answer here (a few sentences is sufficient.)
+<Other questions/comments for Instructors>
+        Answer here (optional)
+*/
+#include <stdio.h>
+int main() {
+}

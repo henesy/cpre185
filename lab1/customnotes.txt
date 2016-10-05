@@ -1,0 +1,24 @@
+tilting: forward + right = -1,-1 (first 2); facing you, tilt top right to the bottom left while still facing you (3rd)
+
+custom1: tilt left, right, towards you, away
+
+custom2: tilt front right, rotate 360 degrees for ~4 seconds; stop, reverse and rotate counter-clockwise for ~4 seconds.
+
+----
+(512) --- (-512)
+
+
+
+y = mx + b
+b = 0
+
+y = mx + 0
+
+[-1,1] = m * [512,-512] + 0
+m = (-1/512)
+
+http://www.wolframalpha.com/input/?i=y+%3D+%28-1%2F512%29+*+512+%2B+0
+
+Linear Equation:
+y = (-1/512) * x + 0 (for x)
+x = (y - 0)/(-512) (for y)

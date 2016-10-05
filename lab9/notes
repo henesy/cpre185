@@ -1,0 +1,6 @@
+draw_character(x, y, 'x');
+refresh();
+
+mvprintw(y, x, "Your text here");
+refresh();
+

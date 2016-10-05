@@ -1,0 +1,10 @@
+1: printf() is using %lf, thus expecting a double, thus, as there is no 
+double, the default value is 0.0 etc
+
+2: printf() is not passed an integer to utilize with the %d placeholder, 
+thus the default value of 0
+
+3: printf() is being passed a double with a %d, integer, placeholder, 
+thus resulting in erroneous output
+
+
